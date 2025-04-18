@@ -9,6 +9,21 @@
 
 ---
 
+## 🌐 デモ
+
+このアプリは Hugging Face Spaces で公開・実行可能です：  
+👉 [valle-x-jp-voice-cloner on Hugging Face Spaces](https://huggingface.co/spaces/Mainlst/valle-x-jp-voice-cloner)
+
+```bash
+📦 Hugging Face Spaces
+└── URL: https://huggingface.co/spaces/Mainlst/valle-x-jp-voice-cloner
+```
+
+スペース上でアプリを試したい方は、ブラウザからアクセスするだけで利用できます。  
+コードをローカルで動かしたい場合は、以下の手順をご参照ください。
+
+---
+
 ## 🐾 主な特徴
 
 - 🇯🇵 **日本語音声対応**：日本語の音声・テキストでクローン可能

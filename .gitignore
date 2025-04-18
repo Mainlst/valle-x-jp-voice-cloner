@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.egg-info/
+*.log
+*.tmp
+*.bak
+
+# VSCodeやIDE
+.vscode/
+.idea/
+
+# Audio / outputs
+*.wav
+*.mp3
+outputs/
+logs/
+checkpoints/
+generated/
+temp/
+*.pt
+*.ckpt
+
+# System
+.DS_Store
+Thumbs.db
+
+# Jupyter (もし使っていたら)
+.ipynb_checkpoints/
+
+# Hugging Face Cache (不要な場合)
+~/.cache/huggingface/

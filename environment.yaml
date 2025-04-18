@@ -1,0 +1,6 @@
+name: vall-e-x
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+prefix: C:\Users\mainl\anaconda3\envs\vall-e-x

@@ -1,6 +1,3 @@
-### 📄 `README.md`
-
-```markdown
 # 🎙️ VALL‑E‑X_JP-Voice-Cloner
 
 日本語対応のゼロショット音声クローンアプリです。  
@@ -90,4 +87,3 @@ python app.py
 - 🧠 [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X)
 - 🎧 [Facebook EnCodec](https://github.com/facebookresearch/encodec)
 - 🗣️ [OpenAI Whisper](https://github.com/openai/whisper)
-```

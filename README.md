@@ -16,11 +16,6 @@ https://github.com/user-attachments/assets/961d158b-66d2-48c2-a257-81260577ca91
 このアプリは Hugging Face Spaces で公開・実行可能です：  
 👉 [valle-x-jp-voice-cloner on Hugging Face Spaces](https://huggingface.co/spaces/Mainlst/valle-x-jp-voice-cloner)
 
-```bash
-📦 Hugging Face Spaces
-└── URL: https://huggingface.co/spaces/Mainlst/valle-x-jp-voice-cloner
-```
-
 スペース上でアプリを試したい方は、ブラウザからアクセスするだけで利用できます。  
 コードをローカルで動かしたい場合は、以下の手順をご参照ください。
 

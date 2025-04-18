@@ -24,6 +24,16 @@ temp/
 *.pt
 *.ckpt
 
+# --- 一時生成ファイルや出力 ---
+customs/prompt_*.npz
+*.wav
+*.mp4
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
 # System
 .DS_Store
 Thumbs.db
@@ -33,3 +43,4 @@ Thumbs.db
 
 # Hugging Face Cache (不要な場合)
 ~/.cache/huggingface/
+"customs/prompt_*.npz"        # 自動生成ファイルを除外
